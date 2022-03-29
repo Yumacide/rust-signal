@@ -1,0 +1,1 @@
+An implementation of Roblox's `RBXScriptSignal` in Rust. This isn't intended for use in production.
