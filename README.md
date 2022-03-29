@@ -1,1 +1,1 @@
-An implementation of Roblox's `RBXScriptSignal` in Rust. This isn't intended for use in production.
+An implementation of Roblox's `RBXScriptSignal` in Rust. Not intended for use in production.
